@@ -1,5 +1,5 @@
 {
-  "name": "starter-react",
+  "name": "mini_tictactoe",
   "version": "0.0.1",
   "description": "A small scaffold to get you started using React with Webpack",
   "main": "server.js",
